@@ -77,14 +77,14 @@
             <div class="item" style="background-image: url(img/sliders/Slide.jpg)">
                 <div class="caption">
                     <h6>Diseño/ Creatividad/ Innovación</h6>
-                    <h1>Bienvenido a <span>Rise</span></h1>
+                    <h1>Bienvenido a <span>JEDI</span></h1>
                     <a class="btn btn-transparent" href="#">MÁS+</a>
                 </div>
             </div>
-            <div class="item" style="background-image: url(img/sliders/Slide2.jpg)">
+            <div class="item" style="background-image: url(img/sliders/diseg.jpg)">
                 <div class="caption">
                     <h6>Diseño/ Creatividad/ Innovación</h6>
-                    <h1>Creative <span>Design</span></h1>
+                    <h1>Creatividad <span>Diseño</span></h1>
                     <a class="btn btn-transparent" href="#">MÁS+</a>
                 </div>
             </div>
@@ -102,7 +102,7 @@
 	============================================= -->
     <section id="welcome">
         <div class="container">
-            <h2>Welcome To <span>Rise</span></h2>
+            <h2>Bienvenido a <span>Jedi</span></h2>
             <hr class="sep">
             <p>Make Yourself At Home Don't Be Shy</p>
             <img class="img-responsive center-block wow fadeInUp" data-wow-delay=".3s" src="img/welcome/logo.png" alt="logo">
@@ -113,7 +113,7 @@
 	============================================= -->
     <section id="services">
         <div class="container">
-            <h2>What We Do</h2>
+            <h2>Qué Hacemos</h2>
             <hr class="light-sep">
             <p>We Can Do Crazy Things</p>
             <div class="services-box">
@@ -121,7 +121,7 @@
                     <div class="col-md-4">
                         <div class="media-left"><span class="icon-lightbulb"></span></div>
                         <div class="media-body">
-                            <h3>Creative Design</h3>
+                            <h3>Diseños creativos</h3>
                             <p>Fringilla augue at maximus vestibulum. Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend.</p>
                         </div>
                     </div>
@@ -177,50 +177,50 @@
 	============================================= -->
     <section id="portfolio">
         <div class="container-fluid">
-            <h2>Our Work</h2>
+            <h2>Otros...</h2>
             <hr class="sep">
-            <p>Showcase Your Amazing Work With Us</p>
+            <p>Nuestras fotos</p>
             <div class="row">
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a class="portfolio-box" href="img/portfolio/1.jpg" data-lightbox="image-1" data-title="Your caption">
-                        <img src="img/portfolio/1.jpg" class="img-responsive" alt="1">
+                    <a class="portfolio-box" href="img/portfolio/11350715_962410380456029_591296517_n.jpg" data-lightbox="image-1" data-title="Your caption">
+                        <img src="img/portfolio/11350715_962410380456029_591296517_n.jpg" class="img-responsive" alt="1">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     Category
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Focus
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a href="img/portfolio/2.jpg" class="portfolio-box" data-lightbox="image-2" data-title="Your caption">
-                        <img src="img/portfolio/2.jpg" class="img-responsive" alt="2">
+                    <a href="img/portfolio/916030_1771587089737025_95534261_n.jpg" class="portfolio-box" data-lightbox="image-2" data-title="Your caption">
+                        <img src="img/portfolio/916030_1771587089737025_95534261_n.jpg" class="img-responsive" alt="2">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     Category
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Perspectiva
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a href="img/portfolio/3.jpg" class="portfolio-box" data-lightbox="image-3" data-title="Your caption">
-                        <img src="img/portfolio/3.jpg" class="img-responsive" alt="3">
+                    <a href="img/portfolio/18095736_1853859134855342_8749191859076595712_n.jpg" class="portfolio-box" data-lightbox="image-3" data-title="Your caption">
+                        <img src="img/portfolio/18095736_1853859134855342_8749191859076595712_n.jpg" class="img-responsive" alt="3">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     Category
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Que vuelvan los lentos
                                 </div>
                             </div>
                         </div>
@@ -278,7 +278,7 @@
 	============================================= -->
     <section id="work-process">
         <div class="container">
-            <h2>Work Process</h2>
+            <h2>Proceso de trabajo</h2>
             <hr class="sep">
             <p>What Happen In The Background</p>
             <div class="row wow fadeInUp" data-wow-delay=".3s">
@@ -305,7 +305,7 @@
 	============================================= -->
     <section id="fun-facts">
         <div class="container">
-            <h2>Some Fun Facts </h2>
+            <h2>Hechos divertidos </h2>
             <hr class="light-sep">
             <p>Fun Facts</p>
             <div class="row wow fadeInUp" data-wow-delay=".3s">
@@ -336,38 +336,38 @@
 	============================================= -->
     <section id="team">
         <div class="container">
-            <h2>Our Team</h2>
+            <h2>Equipo de Trabajo</h2>
             <hr class="sep">
-            <p>Designers Behind This Work</p>
+            <p>Trabajadores detras de la magia</p>
             <div class="row wow fadeInUp" data-wow-delay=".3s">
                 <div class="col-md-4">
                     <div class="team">
-                        <img class="img-responsive center-block" src="img/team/MariaDoe.jpg" alt="1">
+                        <img class="img-responsive center-block" src="img/team/jean.jpg" alt="1">
+                        <h4>Jean Pierre G. Leyton Reyes</h4>
+                        <p>Ing. Civil en Computación e Informáica</p>
+                        <div class="team-social-icons">
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="#"><i class="fa fa-dribbble"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="team">
+                        <img class="img-responsive center-block" src="img/team/diego.jpg" alt="2">
+                        <h4>Diego Ramírez Apucino</h4>
+                        <p>Ing. Civil en Computación e Informáica</p>
+                        <div class="team-social-icons">
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="#"><i class="fa fa-dribbble"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="team">
+                        <img class="img-responsive center-block" src="img/team/MariaDoe.jpg" alt="3">
                         <h4>Maria Doe</h4>
-                        <p>Designer</p>
-                        <div class="team-social-icons">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-dribbble"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="team">
-                        <img class="img-responsive center-block" src="img/team/JasonDoe.jpg" alt="2">
-                        <h4>Jason Doe</h4>
-                        <p>Developer</p>
-                        <div class="team-social-icons">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-dribbble"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="team">
-                        <img class="img-responsive center-block" src="img/team/MikeDoe.jpg" alt="3">
-                        <h4>Mike Doe</h4>
                         <p>Photographer</p>
                         <div class="team-social-icons">
                             <a href="#"><i class="fa fa-facebook"></i></a>
@@ -442,7 +442,7 @@ work only with <span>Rise</span>.<i class="fa fa-quote-right right fa-2x"></i></
     </section>
     <!-- Google Map
 	============================================= -->
-    <div id="map"></div>
+   
     <!-- Footer
 	============================================= -->
     <footer>

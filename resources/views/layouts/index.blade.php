@@ -51,7 +51,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#"><img src="img/logo/logo.png" class="img-responsive" alt="logo"></a>
+                    <a class="navbar-brand" href="#"><img src="img/logo/jei2.png" class="img-responsive" alt="logo"></a>
                 </div>
                 <div class="collapse navbar-collapse text-center" id="bs-example-navbar-collapse-1">
                     <div class="col-md-8 col-xs-12 nav-wrap">
@@ -85,14 +85,14 @@
                 <div class="caption">
                     <h6>Diseño/ Creatividad/ Innovación</h6>
                     <h1>Creative <span>Design</span></h1>
-                    <a class="btn btn-transparent" href="#">Learn More</a>
+                    <a class="btn btn-transparent" href="#">MÁS+</a>
                 </div>
             </div>
             <div class="item" style="background-image: url(img/sliders/Slide3.jpg)">
                 <div class="caption">
                     <h6>Diseño/ Creatividad/ Innovación</h6>
                     <h1>Clean <span>Code</span></h1>
-                    <a class="btn btn-transparent" href="#">Learn More</a>
+                    <a class="btn btn-transparent" href="#">MÁS+</a>
                 </div>
             </div>
         </div>

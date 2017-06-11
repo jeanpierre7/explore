@@ -5,7 +5,7 @@
 
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
-    <title>RISE</title>
+    <title>JEDI</title>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -56,18 +56,19 @@
                 <div class="collapse navbar-collapse text-center" id="bs-example-navbar-collapse-1">
                     <div class="col-md-8 col-xs-12 nav-wrap">
                         <ul class="nav navbar-nav">
+
                             <li><a href="#owl-hero" class="page-scroll">Inicio</a></li>
                             <li><a href="#services" class="page-scroll">Servicios</a></li>
-                            <li><a href="#portfolio" class="page-scroll">Trabajos</a></li>
+                           
                             <li><a href="#team" class="page-scroll">Nosotros</a></li>
                             <li><a href="#contact" class="page-scroll">Contacto</a></li>
+                              <li><a href="#contact" class="page-scroll">Blog</a></li>
+
                         </ul>
                     </div>
                     <div class="social-media hidden-sm hidden-xs">
                         <ul class="nav navbar-nav">
-                            <li><a href="https://www.facebook.com/DiegoRamirezApucino"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="https://www.instagram.com/jeanpierre_lr/"><i class="fa fa-instagram"></i></a></li>
-                            <li><a href="https://github.com/jeanpierre7"><i class="fa fa-github"></i></a></li>
+                         <li><a href="http://localhost:8888/explore/public/admin/login" class="page-scroll">Iniciar seción</a></li>
                         </ul>
                     </div>
                 </div>
@@ -78,17 +79,17 @@
                 <div class="caption">
                     <h6>Diseño/ Creatividad/ Innovación</h6>
                     <h1>Bienvenido a <span>JEDI</span></h1>
-                    <a class="btn btn-transparent" href="#">MÁS+</a>
+                    <a class="btn btn-transparent" href="#welcome">MÁS+</a>
                 </div>
             </div>
             <div class="item" style="background-image: url(img/sliders/diseg.jpg)">
                 <div class="caption">
                     <h6>Diseño/ Creatividad/ Innovación</h6>
-                    <h1>Creatividad <span>Diseño</span></h1>
-                    <a class="btn btn-transparent" href="#">MÁS+</a>
+                    <h1>Creatividad y <span>Diseño</span></h1>
+                    <a class="btn btn-transparent" href="#portfolio">MÁS+</a>
                 </div>
             </div>
-            <div class="item" style="background-image: url(img/sliders/Slide3.jpg)">
+            <div class="item" style="background-image: url(img/sliders/carlos-muza-84523.jpg)">
                 <div class="caption">
                     <h6>Diseño/ Creatividad/ Innovación</h6>
                     <h1>Clean <span>Code</span></h1>
@@ -104,8 +105,8 @@
         <div class="container">
             <h2>Bienvenido a <span>Jedi</span></h2>
             <hr class="sep">
-            <p>Make Yourself At Home Don't Be Shy</p>
-            <img class="img-responsive center-block wow fadeInUp" data-wow-delay=".3s" src="img/welcome/logo.png" alt="logo">
+            <p>Especialistas en soluciones Informaticas</p> <p>Proporcionamos soporte informático y asistencia inmediata a empresas</p>
+            
         </div>
     </section>
 
@@ -115,7 +116,7 @@
         <div class="container">
             <h2>Qué Hacemos</h2>
             <hr class="light-sep">
-            <p>We Can Do Crazy Things</p>
+            <p>Nada es Imposible</p>
             <div class="services-box">
                 <div class="row wow fadeInUp" data-wow-delay=".3s">
                     <div class="col-md-4">
@@ -146,7 +147,7 @@
                         <div class="col-md-4">
                             <div class="media-left"><span class="icon-adjustments"></span></div>
                             <div class="media-body">
-                                <h3>Easy To Customize</h3>
+                                <h3>Facil personalización</h3>
                                 <p>Fringilla augue at maximus vestibulum. Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend.</p>
                             </div>
 
@@ -162,7 +163,7 @@
                         <div class="col-md-4">
                             <div class="media-left"><span class="icon-wallet"></span></div>
                             <div class="media-body">
-                                <h3>Money Saver</h3>
+                                <h3>Ahorro de dinero</h3>
                                 <p>Fringilla augue at maximus vestibulum. Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend.</p>
                             </div>
 
@@ -173,13 +174,119 @@
         </div>
     </section>
 
-    <!-- Portfolio
+
+    <!-- Work Process
 	============================================= -->
+    <section id="work-process">
+        <div class="container">
+            <h2>Proceso de trabajo</h2>
+            <hr class="sep">
+            <p>Qué pasa por Detroit</p>
+            <div class="row wow fadeInUp" data-wow-delay=".3s">
+                <div class="col-lg-3">
+                    <span class="icon-chat"></span>
+                    <h4>1.Discutir</h4>
+                </div>
+                <div class="col-lg-3">
+                    <span class="icon-circle-compass"></span>
+                    <h4>2.Bosquejo</h4>
+                </div>
+                <div class="col-lg-3">
+                    <span class="icon-browser"></span>
+                    <h4>3.Hacer</h4>
+                </div>
+                <div class="col-lg-3">
+                    <span class="icon-global"></span>
+                    <h4>4.Publicar</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Some Fune Facts
+	============================================= -->
+    <section id="fun-facts">
+        <div class="container">
+            <h2>Hechos de JEDI</h2>
+            <hr class="light-sep">
+            <p></p>
+            <div class="row wow fadeInUp" data-wow-delay=".3s">
+                <div class="col-lg-3">
+                    <span class="icon-happy"></span>
+                    <h2 class="number timer">367</h2>
+                    <h4>Clientes Felices</h4>
+                </div>
+                <div class="col-lg-3">
+                    <span class="icon-trophy"></span>
+                    <h2 class="number timer">150</h2>
+                    <h4>Projectos Terminados</h4>
+                </div>
+                <div class="col-lg-3">
+                    <span class="icon-wine"></span>
+                    <h2 class="number timer">121</h2>
+                    <h4>Proyectos en desarrollo</h4>
+                </div>
+                <div class="col-lg-3">
+                    <span class="icon-documents"></span>
+                    <h2 class="number timer">10000</h2>
+                    <h4>Lineas de Codigo</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Some Fune Facts
+	============================================= -->
+    <section id="team">
+        <div class="container">
+            <h2>Equipo de Trabajo</h2>
+            <hr class="sep">
+            <p>Responsables detras de la magia</p>
+            <div class="row wow fadeInUp" data-wow-delay=".3s">
+                <div class="col-md-4">
+                    <div class="team">
+                        <img class="img-responsive center-block" src="img/team/jean.jpg" alt="1">
+                        <h4>Jean Pierre G. Leyton Reyes</h4>
+                        <p>Ing. Civil en Computación e Informática</p>
+                        <div class="team-social-icons">
+                            <a href="https://www.facebook.com/jeanpierre.leyton.1"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.instagram.com/jeanpierre_lr/"><i class="fa fa-instagram"></i></a>
+                            <a href="#"><i class="fa fa-github"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="team">
+                        <img class="img-responsive center-block" src="img/team/diego.jpg" alt="2">
+                        <h4>Diego Ramírez Apucino</h4>
+                        <p>Ing. Civil en Computación e Informática</p>
+                        <div class="team-social-icons">
+                            <a href="https://www.facebook.com/DiegoRamirezApucino?pnref=friends.search"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.instagram.com/dramirezapucino/"><i class="fa fa-instagram"></i></a>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="team">
+                        <img class="img-responsive center-block" src="img/team/MariaDoe.jpg" alt="3">
+                        <h4>Maria Doe</h4>
+                        <p>Fotografía y Diseño</p>
+                        <div class="team-social-icons">
+                            <a href="https://www.facebook.com/melissa.berrios3"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.instagram.com/jenniferboldt/"><i class="fa fa-instagram"></i></a>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+        <!-- Portfolio
+    ============================================= -->
     <section id="portfolio">
         <div class="container-fluid">
-            <h2>Otros...</h2>
+            <h2>MÁS+</h2>
             <hr class="sep">
-            <p>Nuestras fotos</p>
+            <p>Nuestros Gustos</p>
             <div class="row">
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
                     <a class="portfolio-box" href="img/portfolio/11350715_962410380456029_591296517_n.jpg" data-lightbox="image-1" data-title="Your caption">
@@ -187,25 +294,10 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                      Categoría
                                 </div>
                                 <div class="project-name">
                                     Focus
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a href="img/portfolio/916030_1771587089737025_95534261_n.jpg" class="portfolio-box" data-lightbox="image-2" data-title="Your caption">
-                        <img src="img/portfolio/916030_1771587089737025_95534261_n.jpg" class="img-responsive" alt="2">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Perspectiva
                                 </div>
                             </div>
                         </div>
@@ -217,164 +309,75 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                      Categoría
                                 </div>
                                 <div class="project-name">
-                                    Que vuelvan los lentos
+                                    Que vuelvan los lentos,  Muay Thai
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a href="img/portfolio/4.jpg" class="portfolio-box" data-lightbox="image-4" data-title="Your caption">
-                        <img src="img/portfolio/4.jpg" class="img-responsive" alt="4">
+                    <a href="img/portfolio/916030_1771587089737025_95534261_n.jpg" class="portfolio-box" data-lightbox="image-2" data-title="Your caption">
+                        <img src="img/portfolio/916030_1771587089737025_95534261_n.jpg" class="img-responsive" alt="2">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                      Categoría
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Perspectiva
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+         
+                <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
+                    <a href="img/portfolio/10549813_301135826751972_917725701_n.jpg" class="portfolio-box" data-lightbox="image-4" data-title="Your caption">
+                        <img src="img/portfolio/10549813_301135826751972_917725701_n.jpg" class="img-responsive" alt="4">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                      Categoría
+                                </div>
+                                <div class="project-name">
+                                  Muay Thai
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a href="img/portfolio/5.jpg" class="portfolio-box" data-lightbox="image-5" data-title="Your caption">
-                        <img src="img/portfolio/5.jpg" class="img-responsive" alt="5">
+                    <a href="img/portfolio/17076286_1044866428980208_4427187915746967552_n.jpg" class="portfolio-box" data-lightbox="image-5" data-title="Your caption">
+                        <img src="img/portfolio/17076286_1044866428980208_4427187915746967552_n.jpg" class="img-responsive" alt="5">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                      Categoría
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Pleasures
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a href="img/portfolio/6.jpg" class="portfolio-box" data-lightbox="image-6" data-title="Your caption">
-                        <img src="img/portfolio/6.jpg" class="img-responsive" alt="6">
+                    <a href="img/portfolio/16906275_1256690761080105_3328170058886152192_n.jpg" class="portfolio-box" data-lightbox="image-6" data-title="Your caption">
+                        <img src="img/portfolio/16906275_1256690761080105_3328170058886152192_n.jpg" class="img-responsive" alt="6">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Categoría
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Hobby
                                 </div>
                             </div>
                         </div>
                     </a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Work Process
-	============================================= -->
-    <section id="work-process">
-        <div class="container">
-            <h2>Proceso de trabajo</h2>
-            <hr class="sep">
-            <p>What Happen In The Background</p>
-            <div class="row wow fadeInUp" data-wow-delay=".3s">
-                <div class="col-lg-3">
-                    <span class="icon-chat"></span>
-                    <h4>1.Discuss</h4>
-                </div>
-                <div class="col-lg-3">
-                    <span class="icon-circle-compass"></span>
-                    <h4>2.Sketch</h4>
-                </div>
-                <div class="col-lg-3">
-                    <span class="icon-browser"></span>
-                    <h4>3.Make</h4>
-                </div>
-                <div class="col-lg-3">
-                    <span class="icon-global"></span>
-                    <h4>4.Publish</h4>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Some Fune Facts
-	============================================= -->
-    <section id="fun-facts">
-        <div class="container">
-            <h2>Hechos divertidos </h2>
-            <hr class="light-sep">
-            <p>Fun Facts</p>
-            <div class="row wow fadeInUp" data-wow-delay=".3s">
-                <div class="col-lg-3">
-                    <span class="icon-happy"></span>
-                    <h2 class="number timer">367</h2>
-                    <h4>Happy Clients</h4>
-                </div>
-                <div class="col-lg-3">
-                    <span class="icon-trophy"></span>
-                    <h2 class="number timer">150</h2>
-                    <h4>Project Done</h4>
-                </div>
-                <div class="col-lg-3">
-                    <span class="icon-wine"></span>
-                    <h2 class="number timer">121</h2>
-                    <h4>Glass Of Wine</h4>
-                </div>
-                <div class="col-lg-3">
-                    <span class="icon-documents"></span>
-                    <h2 class="number timer">10000</h2>
-                    <h4>Lines Of Code</h4>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Some Fune Facts
-	============================================= -->
-    <section id="team">
-        <div class="container">
-            <h2>Equipo de Trabajo</h2>
-            <hr class="sep">
-            <p>Trabajadores detras de la magia</p>
-            <div class="row wow fadeInUp" data-wow-delay=".3s">
-                <div class="col-md-4">
-                    <div class="team">
-                        <img class="img-responsive center-block" src="img/team/jean.jpg" alt="1">
-                        <h4>Jean Pierre G. Leyton Reyes</h4>
-                        <p>Ing. Civil en Computación e Informáica</p>
-                        <div class="team-social-icons">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-dribbble"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="team">
-                        <img class="img-responsive center-block" src="img/team/diego.jpg" alt="2">
-                        <h4>Diego Ramírez Apucino</h4>
-                        <p>Ing. Civil en Computación e Informáica</p>
-                        <div class="team-social-icons">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-dribbble"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="team">
-                        <img class="img-responsive center-block" src="img/team/MariaDoe.jpg" alt="3">
-                        <h4>Maria Doe</h4>
-                        <p>Photographer</p>
-                        <div class="team-social-icons">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-dribbble"></i></a>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
@@ -383,9 +386,9 @@
 	============================================= -->
     <section id="testimonials">
         <div class="container">
-            <h2>Testimonials</h2>
+            <h2>Testimonios</h2>
             <hr class="light-sep">
-            <p>What Clients Say About Us</p>
+            <p>Qué dicen nuestros clientes</p>
             <div id="owl-testi" class="owl-carousel owl-theme">
                 <div class="item">
                     <div class="quote">
@@ -421,39 +424,38 @@ work only with <span>Rise</span>.<i class="fa fa-quote-right right fa-2x"></i></
 	============================================= -->
     <section id="contact">
         <div class="container">
-            <h2>Contact Us</h2>
+            <h2>Contactanos</h2>
             <hr class="sep">
-            <p>Get In Touch</p>
+            <p>Envíanos un mensaje</p>
             <div class="col-md-6 col-md-offset-3 wow fadeInUp" data-wow-delay=".3s">
                 <form>
                     <div class="form-group">
-                        <input type="text" class="form-control" id="Name" placeholder="Name">
+                        <input type="text" class="form-control" id="Name" placeholder="Nombre">
                     </div>
                     <div class="form-group">
                         <input type="text" class="form-control" id="Email" placeholder="Email">
                     </div>
                     <div class="form-group">
-                        <textarea class="form-control" rows="3" placeholder="Message"></textarea>
+                        <textarea class="form-control" rows="3" placeholder="Mensaje"></textarea>
                     </div>
-                    <a href="#" class="btn-block">Send</a>
+                    <a href="#" class="btn-block">Enviar</a>
                 </form>
             </div>
         </div>
     </section>
-    <!-- Google Map
-	============================================= -->
+  
    
     <!-- Footer
 	============================================= -->
     <footer>
         <div class="container">
-            <h1>Rise</h1>
+            <h1>JEDI</h1>
             <div class="social">
                 <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
-                <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
-                <a href="#"><i class="fa fa-dribbble fa-2x"></i></a>
+                <a href="#"><i class="fa fa-instagram fa-2x"></i></a>
+                <a href="#"><i class="fa fa-github fa-2x"></i></a>
             </div>
-            <h6>&copy; 2015 Rise.Development By BootstrapDev</h6>
+            <h6>&copy; 2017 JEDI.Development By Jean.Inc</h6>
         </div>
     </footer>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

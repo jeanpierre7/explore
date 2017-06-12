@@ -365,15 +365,15 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a href="img/portfolio/16906275_1256690761080105_3328170058886152192_n.jpg" class="portfolio-box" data-lightbox="image-6" data-title="Your caption">
-                        <img src="img/portfolio/16906275_1256690761080105_3328170058886152192_n.jpg" class="img-responsive" alt="6">
+                    <a href="img/portfolio/17587286_1757107264619127_7924480279077453824_n.jpg" class="portfolio-box" data-lightbox="image-6" data-title="Your caption">
+                        <img src="img/portfolio/17587286_1757107264619127_7924480279077453824_n.jpg" class="img-responsive" alt="6">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     Categoría
                                 </div>
                                 <div class="project-name">
-                                    Hobby
+                                    Pleasures
                                 </div>
                             </div>
                         </div>
